@@ -1,0 +1,35 @@
+.spacer {
+    padding: 15px;
+}
+
+.post-spacer {
+    padding: 5px;
+}
+
+#subheading {
+    border-bottom: 2px solid #f2f2f2;
+    padding-bottom: 3px;
+}
+
+#main-banner {
+    margin: auto;
+    text-align: center;
+    font-family: monospace;
+    font-size: 3.5vw;
+}
+
+table #post-info {
+    padding: 5px;
+}
+
+tr {
+    padding-left: inherit;
+    padding-right: inherit;
+}
+
+.post-heading {
+    font-family: Times, "madre-script", Copperplate;
+    font-size: 2em;
+    text-align: center;
+    border-bottom: 4px solid #f2f2f2;
+}
