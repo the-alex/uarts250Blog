@@ -13,8 +13,8 @@
 
 #main-banner {
     margin: auto;
-    text-align: center;
-    font-family: monospace;
+    text-align: justify;
+    font-family: Times, monospace;
     font-size: 3.5vw;
 }
 
